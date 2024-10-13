@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevFloppy
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Django and C#
 
 <!---
 DevFloppy/DevFloppy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
